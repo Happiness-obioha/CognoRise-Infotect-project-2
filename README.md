@@ -22,9 +22,9 @@ Dax Concepts: Line charts, Donut charts, pie charts, stack bar.
 
 The dataset was sourced from Kaggle. I then downloaded the Csv file, extracted it into Power Bi for cleaning analysis and visualization.
 
-## Data Transforming/ Cleaning:
+## Analysis:
 
-The data was efficiently cleaned and transformed with Power query editor of Power Bi, a screenshot of the applied steps![](Transform_image.png)
+The data was efficiently cleaned and transformed with Power query editor of Power Bi. We used various data visualization techniques to understand the distribution of the data and identify patterns. A screenshot of the applied steps![](Transform_image.png)
 
 Some of the steps applied includes:
 - making first row as headers
