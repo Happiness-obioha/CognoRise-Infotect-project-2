@@ -7,4 +7,8 @@ This is a Power BI project on sales analysis of a supermarket called Bigmart. Th
 
 The project is to analyze and derive insights to answer crucial questions and help the supermarket make data driven decisions.
 
+## Problem Statement:
 
+- What are the properties of products that stores which play a key role in increasing sales
+- What role certain items plays and how they affect sales
+- What is the total sales made daily
