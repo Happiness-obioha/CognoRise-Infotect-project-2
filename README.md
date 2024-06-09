@@ -38,7 +38,9 @@ Some of the steps applied includes:
 - Item_Visibility: The visibility of the item, which could include factors like shelf placement and product placement, has a positive correlation with sales, indicating that more visible items tend to sell more.
 - Outlet_Location_Type: The type of location where the store is situated, such as urban or rural, has a significant impact on sales. Urban locations tend to have higher sales compared to rural locations.
 - Item_Type_Categories: The categories of items, such as beverages or snacks, also have a significant impact on sales. Beverages tend to sell more than snacks.
-You can interact with the dashboard here
+You can interact with the dashboard here ![]()https://app.powerbi.com/groups/me/reports/352cb26c-abc3-4f6b-8158-551d058ead68/ReportSection?experience=power-bi
+
+
 ## Recommendations:
 
 - Analyze the product attributes such as product weight, fat content, and visibility, and store attributes like outlet size and location to understand how these factors influence sales.
