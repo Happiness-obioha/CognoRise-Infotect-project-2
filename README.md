@@ -24,5 +24,9 @@ The dataset was sourced from Kaggle. I then downloaded the Csv file, extracted i
 
 ## Data Transforming/ Cleaning:
 
-The data was efficiently cleaned and transformed with Power query editor of Power Bi
+The data was efficiently cleaned and transformed with Power query editor of Power Bi, a screenshot of the applied steps![](Transform_image.png)
 
+Some of the steps applied includes:
+- making first row as headers
+- change type
+- created a new column called Day
