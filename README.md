@@ -1,5 +1,5 @@
 # Bigmart Sales Analysis 
-
+![](store_image.png)
 
 ## Introduction:
 
